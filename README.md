@@ -32,5 +32,5 @@ This project is a website where users can retrieve movie quotes. They can search
 - `/categories/query=${query}`: GET endpoint to retrieve categories for the filter.
 
 ## Deployment
-- Backend: Link(https://movie-quotes-9e17.onrender.com/)
-- Frontend: Link(https://movie-quotes-demo-2024.netlify.app/)
+- Backend: [Link](https://movie-quotes-9e17.onrender.com/)
+- Frontend: [Link](https://movie-quotes-demo-2024.netlify.app/)
